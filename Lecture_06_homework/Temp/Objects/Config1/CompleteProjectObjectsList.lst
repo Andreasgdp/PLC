@@ -1,0 +1,316 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.8.2.72"?>
+<Objects>
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132461905206063920" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132461904735248103"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132461904735587541"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132461904796409490" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132461904783137353" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132461904782898939"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132461904783075242"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132461904783127382"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132461904787426255" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132461904786986165"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132461904787177225"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132461904787414864"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132461904791854772" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132461904791616229"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132461904791753179"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132461904791849524"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132461904795941788" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132461904795738905"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132461904795874982"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132461904795931818"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Program\IEC.prg"
+    LogicalPath="Program"
+    Type="Program"
+    LastWriteTime="132461905206022884" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Program\Main.st"
+    LogicalPath="Program.Main.st"
+    Type="File"
+    LastWriteTime="132461907039236434"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Program\Types.typ"
+    LogicalPath="Program.Types.typ"
+    Type="File"
+    LastWriteTime="132461905205980531"
+    Private="true" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Logical\Program\Variables.var"
+    LogicalPath="Program.Variables.var"
+    Type="File"
+    LastWriteTime="132461906713995920"
+    Private="true" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132461904833494776" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132461906576939801"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132461906713313124"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\Cpu.pkg"
+    LogicalPath="Config1.X20CP1382"
+    Type="Cpu"
+    LastWriteTime="132461904809793700" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\Cpu.sw"
+    LogicalPath="Config1.X20CP1382.Cpu.sw"
+    Type="File"
+    LastWriteTime="132461905213128404"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\Cpu.per"
+    LogicalPath="Config1.X20CP1382.Cpu.per"
+    Type="File"
+    LastWriteTime="132461904801862262"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\IoMap.iom"
+    LogicalPath="Config1.X20CP1382.IoMap.iom"
+    Type="File"
+    LastWriteTime="132461904802119027"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\PvMap.vvm"
+    LogicalPath="Config1.X20CP1382.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132461904802307366"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\Connectivity\Package.pkg"
+    LogicalPath="Config1.X20CP1382.Connectivity"
+    Type="Package"
+    LastWriteTime="132461904803383083" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.X20CP1382.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132461904803252891" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\TextSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1382.TextSystem"
+    Type="Package"
+    LastWriteTime="132461904803803606" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\UnitSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1382.UnitSystem"
+    Type="Package"
+    LastWriteTime="132461904804151319" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132461904808318671" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132461904805132043" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132461904804924231"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132461904805123791"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132461904807494850" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132461904806133445" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132461904805766317" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132461904806044649" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132461904806773741" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132461904806640108" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132461904807055291" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132461904807357071" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132461904807823393" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="132461904808183525" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="132461904808173117"
+    Private="false" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\mappControl\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappControl"
+    Type="Package"
+    LastWriteTime="132461904808702015" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\mappMotion\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappMotion"
+    Type="Package"
+    LastWriteTime="132461904808933942" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\mappServices\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappServices"
+    Type="Package"
+    LastWriteTime="132461904809148211" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\mappView\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappView"
+    Type="Package"
+    LastWriteTime="132461904809283102" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\X20CP1382\mappCockpit\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappCockpit"
+    Type="Package"
+    LastWriteTime="132461904809592232" />
+  <Object
+    Path="C:\GitHub\PLC\Lecture_06_homework\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132461906713565622"
+    Private="false" />
+</Objects>
