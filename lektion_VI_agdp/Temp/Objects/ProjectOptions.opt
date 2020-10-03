@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.8.2.72"?>
+<ProjectOptions
+  IecNamingConventions="true"
+  IecKeywordsAsStructureMembers="false"
+  IecExtendedConstants="true"
+  LogicalDirectory="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\"
+  TempDirectory="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Temp\"
+  AutomationStudioVersion="4.8.2.72"
+  AutomationStudioEdition="Standard"
+  BuildCrossReference="false"
+  ActiveConfiguration="Config1"
+  CreateAnsiCDeclarations="false" />
