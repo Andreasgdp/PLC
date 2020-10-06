@@ -1,0 +1,21 @@
+WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Opg2 
+Position X=0 Y=0 Width=0 Height=0 TabWidth Name=250 Type=0 Scope=0 Force=0 Index=17 ASCIIString=0
+                                    name                                     type force                                                            value level type len format place expand specs
+                                   array                              BOOL[0..15]    0 "                                                               *"    0    1   16    0    1    1         
+                                array[0]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[1]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[2]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[3]                                     BOOL    0 "                                                            TRUE"    1    1    1    2    1    0         
+                                array[4]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[5]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[6]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[7]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[8]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                array[9]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                               array[10]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                               array[11]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                               array[12]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                               array[13]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                               array[14]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                               array[15]                                     BOOL    0 "                                                           FALSE"    1    1    1    2    1    0         
+                                   shift                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
