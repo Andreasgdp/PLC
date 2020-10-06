@@ -3,7 +3,8 @@
 <Transfer xmlns="http://br-automation.co.at/AS/Transfer">
   <OperatingSystem Version="B4.82"/>
   <Hardware Target="SG4"/>
-  <Operation Delete="Program.br"/>
+  <Operation Delete="Opg2.br"/>
+  <Operation Delete="Opg1.br"/>
   <Operation Delete="asieccon.br"/>
   <Operation Delete="astime.br"/>
   <Operation Download="ashwd.br" Memory="SystemROM"/>
@@ -21,5 +22,6 @@
   <Operation Download="TCData.br" Memory="SystemROM"/>
   <Operation Download="udbdef.br" Memory="UserROM"/>
   <Operation Download="User.br" Memory="UserROM"/>
-  <Operation Download="Program.br" Memory="UserROM"/>
+  <Operation Download="Opg1.br" Memory="UserROM"/>
+  <Operation Download="Opg2.br" Memory="UserROM"/>
 </Transfer>

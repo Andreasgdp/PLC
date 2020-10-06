@@ -5,7 +5,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Package.pkg"
     LogicalPath=""
     Type="Package.ParentUnknown"
-    LastWriteTime="132461904576527221" />
+    LastWriteTime="132464626012899191" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Global.typ"
     LogicalPath="Global.typ"
@@ -22,7 +22,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Libraries\Package.pkg"
     LogicalPath="Libraries"
     Type="Package"
-    LastWriteTime="132461904334286236" />
+    LastWriteTime="132464622945918630" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Libraries\operator\binary.lby"
     LogicalPath="Libraries.operator"
@@ -116,27 +116,50 @@
     LastWriteTime="132461904334046819"
     Private="false" />
   <Object
-    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Program\IEC.prg"
-    LogicalPath="Program"
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg1\IEC.prg"
+    LogicalPath="Opg1"
     Type="Program"
     LastWriteTime="132461904576507260" />
   <Object
-    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Program\Main.st"
-    LogicalPath="Program.Main.st"
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg1\Main.st"
+    LogicalPath="Opg1.Main.st"
     Type="File"
-    LastWriteTime="132461907048625706"
+    LastWriteTime="132464626421093072"
     Private="false" />
   <Object
-    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Program\Types.typ"
-    LogicalPath="Program.Types.typ"
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg1\Types.typ"
+    LogicalPath="Opg1.Types.typ"
     Type="File"
-    LastWriteTime="132461904576487318"
+    LastWriteTime="132464588117809261"
     Private="true" />
   <Object
-    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Program\Variables.var"
-    LogicalPath="Program.Variables.var"
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg1\Variables.var"
+    LogicalPath="Opg1.Variables.var"
     Type="File"
-    LastWriteTime="132461906875551062"
+    LastWriteTime="132464622946028322"
+    Private="true" />
+  <Object
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg2\IEC.prg"
+    LogicalPath="Opg2"
+    Type="Program"
+    LastWriteTime="132464625941125467" />
+  <Object
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg2\Main.st"
+    LogicalPath="Opg2.Main.st"
+    Type="File"
+    LastWriteTime="132464636598461977"
+    Private="false" />
+  <Object
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg2\Types.typ"
+    LogicalPath="Opg2.Types.typ"
+    Type="File"
+    LastWriteTime="132464625941115395"
+    Private="true" />
+  <Object
+    Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg2\Variables.var"
+    LogicalPath="Opg2.Variables.var"
+    Type="File"
+    LastWriteTime="132464634875513631"
     Private="true" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Physical\Config1\Config.pkg"
@@ -147,13 +170,13 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Physical\Config1\Hardware.hw"
     LogicalPath="Config1.Hardware.hw"
     Type="File"
-    LastWriteTime="132461906573103852"
+    LastWriteTime="132461908216960099"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Physical\Config1\Hardware.hwl"
     LogicalPath="Config1.Hardware.hwl"
     Type="File"
-    LastWriteTime="132461906874992227"
+    LastWriteTime="132464630553074184"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Physical\Config1\X20CP1382\Cpu.pkg"
@@ -164,7 +187,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Physical\Config1\X20CP1382\Cpu.sw"
     LogicalPath="Config1.X20CP1382.Cpu.sw"
     Type="File"
-    LastWriteTime="132461904582374241"
+    LastWriteTime="132464626013028842"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Physical\Config1\X20CP1382\Cpu.per"
@@ -311,6 +334,6 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Physical\Config1\Hardware.jpg"
     LogicalPath="Config1.Hardware.jpg"
     Type="File"
-    LastWriteTime="132461906875151791"
+    LastWriteTime="132464630553173943"
     Private="false" />
 </Objects>

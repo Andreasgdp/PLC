@@ -10,16 +10,28 @@
   <TaskClass
     Name="Cyclic#4">
     <Task
-      Name="Program"
+      Name="Opg1"
       Disable="false"
-      Source="Program"
+      Source="Opg1"
       Language="IEC">
       <InternalFile
-        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Temp\Objects\Config1\X20CP1382\Program\Main.st.var" />
+        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Temp\Objects\Config1\X20CP1382\Opg1\Main.st.var" />
       <File
-        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Program\Types.typ" />
+        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg1\Types.typ" />
       <File
-        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Program\Variables.var" />
+        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg1\Variables.var" />
+    </Task>
+    <Task
+      Name="Opg2"
+      Disable="false"
+      Source="Opg2"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Temp\Objects\Config1\X20CP1382\Opg2\Main.st.var" />
+      <File
+        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg2\Types.typ" />
+      <File
+        Path="C:\Users\andre\Documents\GitHub\PLC\lektion_VI_agdp\Logical\Opg2\Variables.var" />
     </Task>
   </TaskClass>
   <TaskClass
