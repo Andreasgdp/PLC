@@ -1,0 +1,21 @@
+Tue Oct  6 14:55:51 2020
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Tue Oct  6 14:55:51 2020
+No ARsim registration found!
+
+Tue Oct  6 14:55:51 2020
+InstanceName: 01d69be004de85c0
+
+Tue Oct  6 14:55:51 2020
+WorkingDirectory: C:\GitHub\PLC\Lecture_06_blinklys\Temp\Simulation\Config1\X20CP1382\
+
+Tue Oct  6 14:55:51 2020
+COMMAND_COLDSTART
+
+Tue Oct  6 14:55:53 2020
+Version: B4.82
+
+Tue Oct  6 14:58:10 2020
+COMMAND_TERMINATE
+
