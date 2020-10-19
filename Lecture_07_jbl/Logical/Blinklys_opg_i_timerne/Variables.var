@@ -1,0 +1,4 @@
+VAR
+	timer : TON;
+	light : BOOL;
+END_VAR

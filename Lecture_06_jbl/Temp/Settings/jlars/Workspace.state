@@ -4,6 +4,12 @@
   <TextEdit ID="C:\GitHub\PLC\Lecture_06_jbl\Logical\Opgave2\Main.st" CaretLine="25" CaretColumn="28" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
+  <TextEdit ID="C:\GitHub\PLC\Lecture_06_jbl\Logical\Opgave1\Main.st" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\GitHub\PLC\Lecture_06_jbl\Logical\Blinklys_opg_i_timerne\Main.st" CaretLine="1" CaretColumn="1" FirstVisibleLine="1">
+    <Bookmarks />
+  </TextEdit>
   <TreeView ID="C:\GitHub\PLC\Lecture_06_jbl\Logical\Opgave2\Variables.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
     <Columns>
       <Column Index="0" Width="200" Position="0" />

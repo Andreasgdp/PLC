@@ -1,0 +1,21 @@
+Mon Oct 19 12:05:43 2020
+COPYRIGHT (C) B&R Industrial Automation GmbH
+
+Mon Oct 19 12:05:43 2020
+No ARsim registration found!
+
+Mon Oct 19 12:05:43 2020
+InstanceName: 01d6a5ff68364940
+
+Mon Oct 19 12:05:43 2020
+WorkingDirectory: C:\GitHub\PLC\Lecture_07_jbl\Temp\Simulation\Config1\X20CP1382\
+
+Mon Oct 19 12:05:43 2020
+COMMAND_COLDSTART
+
+Mon Oct 19 12:05:46 2020
+Version: B4.82
+
+Mon Oct 19 12:06:30 2020
+COMMAND_TERMINATE
+
