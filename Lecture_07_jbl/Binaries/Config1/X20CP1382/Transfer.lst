@@ -5,6 +5,7 @@
   <Hardware Target="SG4"/>
   <Operation Delete="Opgave1.br"/>
   <Operation Delete="Blinklys_t.br"/>
+  <Operation Delete="Opgave2.br"/>
   <Operation Delete="asieccon.br"/>
   <Operation Delete="astime.br"/>
   <Operation Download="asfw.br" Memory="SystemROM"/>
@@ -23,6 +24,7 @@
   <Operation Download="runtime.br" Memory="UserROM"/>
   <Operation Download="astime.br" Memory="UserROM"/>
   <Operation Download="asieccon.br" Memory="UserROM"/>
+  <Operation Download="Opgave2.br" Memory="UserROM"/>
   <Operation Download="Blinklys_t.br" Memory="UserROM"/>
   <Operation Download="Opgave1.br" Memory="UserROM"/>
 </Transfer>

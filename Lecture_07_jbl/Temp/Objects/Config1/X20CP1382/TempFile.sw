@@ -5,7 +5,9 @@
   <TaskClass Name="Cyclic#2" />
   <TaskClass Name="Cyclic#3" />
   <TaskClass Name="Cyclic#4" />
-  <TaskClass Name="Cyclic#5" />
+  <TaskClass Name="Cyclic#5">
+    <Task Name="Opgave2" Source="Opgave2.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+  </TaskClass>
   <TaskClass Name="Cyclic#6">
     <Task Name="Blinklys_t" Source="Blinklys_opg_i_timerne.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="Opgave1" Source="Opgave1.prg" Memory="UserROM" Language="IEC" Debugging="true" />

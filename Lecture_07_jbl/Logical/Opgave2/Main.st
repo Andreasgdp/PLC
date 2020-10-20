@@ -7,20 +7,19 @@ END_PROGRAM
 
 PROGRAM _CYCLIC
 	(* Insert code here *)
-	timer(IN := NOT timer.Q, PT := T#1s);
-	IF timer.Q THEN
-		light := NOT light;
-	END_IF
 	
 	IF (shift) THEN
+		timer(IN := NOT timer.Q, PT := T#10ms);
 		FOR i := 0 TO 15 BY 1 DO
-			IF (i = 0) THEN
-				lights[0] := lights[15];
-				lights[15] := FALSE;
-			ELSE
-				lights[i] := lights[i - 1];
-				lights[i - 1] := FALSE;
-			END_IF;
+			IF timer.Q THEN
+				IF (i = 0) THEN
+					lights[0] := lights[15];
+					lights[15] := FALSE;
+				ELSE
+					lights[i] := lights[i - 1];
+					lights[i - 1] := FALSE;
+				END_IF;
+			END_IF
 		END_FOR;
 	END_IF;		
 	 

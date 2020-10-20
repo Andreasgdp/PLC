@@ -1,38 +1,38 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RuleSetOptions UsesUTCTime="True">
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\ashwac.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-19 10:05:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\Hardware.hw&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ashwac.br&quot; -L &quot;AsIecCon: V*, astime: V*, operator: V*, runtime: V*, standard: V*&quot; -c &quot;Config1&quot; -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; -M IA32 -B B4.82 -P &quot;$(AS_PROJECT_PATH)&quot; -s &quot;Config1&quot; -T SG4 " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sysconf.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-19 10:05:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\Hardware.hw&quot;  -c &quot;Config1&quot; -sysconf -S &quot;X20CP1382&quot; -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\sysconf.br&quot; -T SG4 -B B4.82 -P &quot;$(AS_PROJECT_PATH)&quot; -s &quot;Config1&quot; " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\asfw.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-19 10:05:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-20 07:30:08" />
     <Prerequisite ID="c:\brautomation\as48\upgrades\modified.txt" LastWriteTime="2020-07-16 07:14:26" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\Hardware.hw&quot;  -v V1.00.0 -S &quot;X20CP1382&quot; -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\asfw.br&quot; -T SG4 -B B4.82 -P &quot;$(AS_PROJECT_PATH)&quot; -c &quot;Config1&quot; -zip -s &quot;Config1&quot; -firmware -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\ashwd.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-19 10:05:42" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-20 07:30:08" />
     <Prerequisite ID="c:\brautomation\as48\upgrades\modified.txt" LastWriteTime="2020-07-16 07:14:26" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\Hardware.hw&quot;  -v V1.00.0 -S &quot;X20CP1382&quot; -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ashwd.br&quot; -T SG4 -B B4.82 -P &quot;$(AS_PROJECT_PATH)&quot; -c &quot;Config1&quot; -zip -s &quot;Config1&quot; -hwd -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\arconfig.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-19 10:05:42" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\iomap.iom" LastWriteTime="2020-10-06 11:48:40" />
-    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\Hardware.hw&quot; &quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\IoMap.iom&quot;  -arconfig -C &quot;/COMT=2500 /RT=1000 /AM=* /SDT=5 /DAIP=10.0.0.50 /REPO=11159 /ANSL=1 /PT=11169&quot; -D &quot;/IF=tcpip /LOPO=11159 /SA=1&quot; -c &quot;Config1&quot; -v V1.00.0 -S &quot;X20CP1382&quot; -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\arconfig.br&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ChannelConfiguration.xml&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\HardwareConfiguration.xml&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ReActionTechnologyConfiguration.xml&quot; -T SG4 -B B4.82 -P &quot;$(AS_PROJECT_PATH)&quot; -s &quot;Config1&quot; " />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\iomap.iom" LastWriteTime="2020-10-20 07:30:08" />
+    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\Hardware.hw&quot; &quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\IoMap.iom&quot;  -arconfig -C &quot;/RT=1000 /AM=*&quot; -D &quot;/IF=COM1 /BD=57600 /PA=2 /IT=20 /RS=0&quot; -c &quot;Config1&quot; -v V1.00.0 -S &quot;X20CP1382&quot; -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\arconfig.br&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ChannelConfiguration.xml&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\HardwareConfiguration.xml&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ReActionTechnologyConfiguration.xml&quot; -T SG4 -B B4.82 -P &quot;$(AS_PROJECT_PATH)&quot; -s &quot;Config1&quot; " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\udbdef.br">
     <Prerequisite ID="c:\brautomation\as48\as\technologypackages\unitsystem\n.d\transfer\modules\sg4\udbdef.br" LastWriteTime="2020-04-07 09:33:28" />
     <CommandLine Parameter="C:\BrAutomation\AS48\AS\TechnologyPackages\UnitSystem\n.d\Transfer\Modules\SG4\udbdef.br, $(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\udbdef.br" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\iomap.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\iomap.iom" LastWriteTime="2020-10-06 11:48:40" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\pvmap.vvm" LastWriteTime="2020-10-06 11:48:40" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-19 10:05:42" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.sw" LastWriteTime="2020-10-20 07:15:32" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\channelconfiguration.xml" LastWriteTime="2020-10-19 11:17:54" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\iomap.iom" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\pvmap.vvm" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\hardware.hw" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.sw" LastWriteTime="2020-10-20 07:47:50" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\channelconfiguration.xml" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\IoMap.iom&quot; &quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\PvMap.vvm&quot;  -m &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ConfigInfo.cfi&quot; -g &quot;$(AS_PROJECT_PATH)\Temp\Objects\Declarations.lst&quot; -x &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\ChannelConfiguration.xml&quot; -v V1.00.0 -f &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382&quot; -iomap -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\iomap.br&quot; -T SG4 -B B4.82 -P &quot;$(AS_PROJECT_PATH)&quot; -s &quot;Config1.X20CP1382&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata\tcdata.imx">
@@ -40,31 +40,70 @@
     <CommandLine Parameter=" -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\TCData\TCData.imx&quot; -c &quot;C:\BrAutomation\AS48\AS\TechnologyPackages\TextSystem\n.d\ObjectCatalog\Elements\TextConfig\Template\TC.textconfig&quot; -I &quot;C:\BrAutomation\AS\System\B0482&quot; &quot;C:\BrAutomation\AS48\AS\TechnologyPackages\UnitSystem\n.d&quot; -P &quot;$(AS_PROJECT_PATH)&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata\tcdata.s18d">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata\tcdata.imx" LastWriteTime="2020-10-19 11:17:54" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata\tcdata.imx" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\TCData\TCData.imx&quot; -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\TCData\TCData.s18d&quot;" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata\tcdata.s18d" LastWriteTime="2020-10-19 11:17:56" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata\tcdata.s18d" LastWriteTime="2020-10-20 07:31:22" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\TCData\TCData.s18d&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\TCData.br&quot; -t TextModule" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\role.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\userrolesystem\role.role" LastWriteTime="2020-10-06 11:48:40" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\userrolesystem\role.role" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\Role.role&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Role.br&quot; -zip -B B4.82 -z n.d -P &quot;$(AS_PROJECT_PATH)&quot; -c &quot;Config1&quot; " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\user.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\userrolesystem\user.user" LastWriteTime="2020-10-06 11:48:40" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\userrolesystem\role.role" LastWriteTime="2020-10-06 11:48:40" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\userrolesystem\user.user" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\userrolesystem\role.role" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\User.user&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\User.br&quot; -zip -B B4.82 -z n.d -P &quot;$(AS_PROJECT_PATH)&quot; -c &quot;Config1&quot; " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\fwrules.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\firewall\rules.firewallrules" LastWriteTime="2020-10-06 11:48:40" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\accessandsecurity\firewall\rules.firewallrules" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\AccessAndSecurity\Firewall\Rules.firewallRules&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\FWRules.br&quot; -zip -B B4.82 -z n.d -P &quot;$(AS_PROJECT_PATH)&quot; -c &quot;Config1&quot; " />
   </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2.br">
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\opgave2.ox" LastWriteTime="2020-10-20 08:14:52" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.per" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave2\variables.var" LastWriteTime="2020-10-20 07:34:14" />
+    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\Opgave2.ox&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2.br&quot; -v V1.00.0 -f &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\NT.ofs&quot; -offsetLT &quot;$(AS_PROJECT_PATH)\Binaries\Config1\X20CP1382\LT.ofs&quot; -T SG4 -M IA32 -B B4.82 -G V4.1.2  -extConstants -d &quot;runtime: V* - V*,asieccon: V* - V*&quot; -r Cyclic5 -p 2 -s &quot;Opgave2&quot; -L &quot;AsIecCon: V*, astime: V*, operator: V*, runtime: V*, standard: V*&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
+    <AdditionalBuildTrigger Key="VolatileMemory" Value="65535" />
+    <AdditionalBuildTrigger Key="PermanentAnalogMemory" Value="0" />
+    <AdditionalBuildTrigger Key="PermanentDigitalMemory" Value="0" />
+    <AdditionalBuildTrigger Key="RemanentMemory" Value="0" />
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\opgave2.ox">
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\a.out" LastWriteTime="2020-10-20 08:14:50" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave2\variables.var" LastWriteTime="2020-10-20 07:34:14" />
+    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\a.out&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\Opgave2.ox&quot; -T SG4 -r Cyclic5 -G V4.1.2  -B B4.82 " />
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\a.out">
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\main.st.o" LastWriteTime="2020-10-20 08:14:50" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\_bur_pvdef.st.o" LastWriteTime="2020-10-20 08:14:50" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave2\variables.var" LastWriteTime="2020-10-20 07:34:14" />
+    <CommandLine Parameter=" -link &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\Main.st.o&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\_bur_pvdef.st.o&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\a.out&quot; -G V4.1.2  -T SG4 -M IA32 &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libAsIecCon.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libastime.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libstandard.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libruntime.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\liboperator.a&quot; -specs=I386specs_brelf -nostdlib" />
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\main.st.o">
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave2\main.st" LastWriteTime="2020-10-20 08:14:46" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave2\variables.var" LastWriteTime="2020-10-20 07:34:14" />
+    <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Logical\Opgave2\Main.st&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\Main.st.o&quot; -T SG4 -M IA32 -B B4.82 -G V4.1.2  -s &quot;Opgave2&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -pointers -extComments -extBitAccess -extConstants -D _SG4 -l &quot;$(AS_PROJECT_PATH)\Logical\Opgave2\Types.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Opgave2\Variables.var&quot; -g &quot;$(AS_PROJECT_PATH)\Logical\Global.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Global.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.var&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
+    <AdditionalBuildTrigger Key="IecDeclarationsInAnsiC" Value="False" />
+  </Rule>
+  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\_bur_pvdef.st.o">
+    <Prerequisite ID="c:\brautomation\as48\as\gnuinst\v4.1.2\i386-elf\include\bur\_bur_pvdef.st" LastWriteTime="2020-04-07 09:33:28" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2\main.st.o" LastWriteTime="2020-10-20 08:14:50" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave2\variables.var" LastWriteTime="2020-10-20 07:34:14" />
+    <CommandLine Parameter="&quot;C:\BrAutomation\AS48\AS\GnuInst\V4.1.2\i386-elf\include\bur\_bur_pvdef.st&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave2\_bur_pvdef.st.o&quot; -S &quot;Main.st&quot;  -T SG4 -M IA32 -B B4.82 -G V4.1.2  -s &quot;Opgave2&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -pointers -extComments -extBitAccess -extConstants -D _SG4 -l &quot;$(AS_PROJECT_PATH)\Logical\Opgave2\Types.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Opgave2\Variables.var&quot; -g &quot;$(AS_PROJECT_PATH)\Logical\Global.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Global.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.var&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
+    <AdditionalBuildTrigger Key="IecDeclarationsInAnsiC" Value="False" />
+  </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\blinklys_t.ox" LastWriteTime="2020-10-19 11:17:50" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.per" LastWriteTime="2020-10-06 11:48:40" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-06 11:53:30" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-06 13:00:54" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\blinklys_t.ox" LastWriteTime="2020-10-20 07:31:20" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.per" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\Blinklys_t.ox&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t.br&quot; -v V1.00.0 -f &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\NT.ofs&quot; -offsetLT &quot;$(AS_PROJECT_PATH)\Binaries\Config1\X20CP1382\LT.ofs&quot; -T SG4 -M IA32 -B B4.82 -G V4.1.2  -extConstants -d &quot;runtime: V* - V*,asieccon: V* - V*&quot; -r Cyclic6 -p 2 -s &quot;Blinklys_opg_i_timerne&quot; -L &quot;AsIecCon: V*, astime: V*, operator: V*, runtime: V*, standard: V*&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
     <AdditionalBuildTrigger Key="VolatileMemory" Value="65535" />
     <AdditionalBuildTrigger Key="PermanentAnalogMemory" Value="0" />
@@ -72,37 +111,37 @@
     <AdditionalBuildTrigger Key="RemanentMemory" Value="0" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\blinklys_t.ox">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\a.out" LastWriteTime="2020-10-19 11:17:50" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-06 11:53:30" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-06 13:00:54" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\a.out" LastWriteTime="2020-10-20 07:31:20" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\a.out&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\Blinklys_t.ox&quot; -T SG4 -r Cyclic6 -G V4.1.2  -B B4.82 " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\a.out">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\main.st.o" LastWriteTime="2020-10-19 11:17:50" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\_bur_pvdef.st.o" LastWriteTime="2020-10-19 11:17:50" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-06 11:53:30" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-06 13:00:54" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\main.st.o" LastWriteTime="2020-10-20 07:31:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\_bur_pvdef.st.o" LastWriteTime="2020-10-20 07:31:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter=" -link &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\Main.st.o&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\_bur_pvdef.st.o&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\a.out&quot; -G V4.1.2  -T SG4 -M IA32 &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libAsIecCon.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libastime.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libstandard.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libruntime.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\liboperator.a&quot; -specs=I386specs_brelf -nostdlib" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\main.st.o">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\main.st" LastWriteTime="2020-10-06 13:00:54" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-06 11:53:30" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-06 13:00:54" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\main.st" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Logical\Blinklys_opg_i_timerne\Main.st&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\Main.st.o&quot; -T SG4 -M IA32 -B B4.82 -G V4.1.2  -s &quot;Blinklys_opg_i_timerne&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -pointers -extComments -extBitAccess -extConstants -D _SG4 -l &quot;$(AS_PROJECT_PATH)\Logical\Blinklys_opg_i_timerne\Types.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Blinklys_opg_i_timerne\Variables.var&quot; -g &quot;$(AS_PROJECT_PATH)\Logical\Global.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Global.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.var&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
     <AdditionalBuildTrigger Key="IecDeclarationsInAnsiC" Value="False" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\_bur_pvdef.st.o">
     <Prerequisite ID="c:\brautomation\as48\as\gnuinst\v4.1.2\i386-elf\include\bur\_bur_pvdef.st" LastWriteTime="2020-04-07 09:33:28" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\main.st.o" LastWriteTime="2020-10-19 11:17:50" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-06 11:53:30" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-06 13:00:54" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t\main.st.o" LastWriteTime="2020-10-20 07:31:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\libraries\standard\standard.fun" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\blinklys_opg_i_timerne\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;C:\BrAutomation\AS48\AS\GnuInst\V4.1.2\i386-elf\include\bur\_bur_pvdef.st&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Blinklys_t\_bur_pvdef.st.o&quot; -S &quot;Main.st&quot;  -T SG4 -M IA32 -B B4.82 -G V4.1.2  -s &quot;Blinklys_opg_i_timerne&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -pointers -extComments -extBitAccess -extConstants -D _SG4 -l &quot;$(AS_PROJECT_PATH)\Logical\Blinklys_opg_i_timerne\Types.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Blinklys_opg_i_timerne\Variables.var&quot; -g &quot;$(AS_PROJECT_PATH)\Logical\Global.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Global.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.var&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
     <AdditionalBuildTrigger Key="IecDeclarationsInAnsiC" Value="False" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1.br">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\opgave1.ox" LastWriteTime="2020-10-20 07:19:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.per" LastWriteTime="2020-10-06 11:48:40" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:16:36" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\opgave1.ox" LastWriteTime="2020-10-20 07:31:20" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.per" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\Opgave1.ox&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1.br&quot; -v V1.00.0 -f &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\NT.ofs&quot; -offsetLT &quot;$(AS_PROJECT_PATH)\Binaries\Config1\X20CP1382\LT.ofs&quot; -T SG4 -M IA32 -B B4.82 -G V4.1.2  -extConstants -d &quot;runtime: V* - V*,asieccon: V* - V*&quot; -r Cyclic6 -p 3 -s &quot;Opgave1&quot; -L &quot;AsIecCon: V*, astime: V*, operator: V*, runtime: V*, standard: V*&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
     <AdditionalBuildTrigger Key="VolatileMemory" Value="65535" />
     <AdditionalBuildTrigger Key="PermanentAnalogMemory" Value="0" />
@@ -110,26 +149,26 @@
     <AdditionalBuildTrigger Key="RemanentMemory" Value="0" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\opgave1.ox">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\a.out" LastWriteTime="2020-10-20 07:19:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:16:36" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\a.out" LastWriteTime="2020-10-20 07:31:20" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\a.out&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\Opgave1.ox&quot; -T SG4 -r Cyclic6 -G V4.1.2  -B B4.82 " />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\a.out">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\main.st.o" LastWriteTime="2020-10-20 07:19:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\_bur_pvdef.st.o" LastWriteTime="2020-10-20 07:19:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:16:36" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\main.st.o" LastWriteTime="2020-10-20 07:31:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\_bur_pvdef.st.o" LastWriteTime="2020-10-20 07:31:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter=" -link &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\Main.st.o&quot; &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\_bur_pvdef.st.o&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\a.out&quot; -G V4.1.2  -T SG4 -M IA32 &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libAsIecCon.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libastime.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libstandard.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\libruntime.a&quot; &quot;-Wl,C:\BrAutomation\AS\System\B0482\SG4\Ia32\liboperator.a&quot; -specs=I386specs_brelf -nostdlib" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\main.st.o">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\main.st" LastWriteTime="2020-10-20 07:16:32" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:16:36" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\main.st" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;$(AS_PROJECT_PATH)\Logical\Opgave1\Main.st&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\Main.st.o&quot; -T SG4 -M IA32 -B B4.82 -G V4.1.2  -s &quot;Opgave1&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -pointers -extComments -extBitAccess -extConstants -D _SG4 -l &quot;$(AS_PROJECT_PATH)\Logical\Opgave1\Types.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Opgave1\Variables.var&quot; -g &quot;$(AS_PROJECT_PATH)\Logical\Global.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Global.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.var&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
     <AdditionalBuildTrigger Key="IecDeclarationsInAnsiC" Value="False" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\_bur_pvdef.st.o">
     <Prerequisite ID="c:\brautomation\as48\as\gnuinst\v4.1.2\i386-elf\include\bur\_bur_pvdef.st" LastWriteTime="2020-04-07 09:33:28" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\main.st.o" LastWriteTime="2020-10-20 07:19:20" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:16:36" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1\main.st.o" LastWriteTime="2020-10-20 07:31:18" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\logical\opgave1\variables.var" LastWriteTime="2020-10-20 07:30:08" />
     <CommandLine Parameter="&quot;C:\BrAutomation\AS48\AS\GnuInst\V4.1.2\i386-elf\include\bur\_bur_pvdef.st&quot;  -o &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\Opgave1\_bur_pvdef.st.o&quot; -S &quot;Main.st&quot;  -T SG4 -M IA32 -B B4.82 -G V4.1.2  -s &quot;Opgave1&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -pointers -extComments -extBitAccess -extConstants -D _SG4 -l &quot;$(AS_PROJECT_PATH)\Logical\Opgave1\Types.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Opgave1\Variables.var&quot; -g &quot;$(AS_PROJECT_PATH)\Logical\Global.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.typ&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.fun&quot; &quot;$(AS_PROJECT_PATH)\Logical\Global.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\operator\operator.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\runtime\runtime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\astime\astime.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\AsIecCon\AsIecCon.var&quot; &quot;$(AS_PROJECT_PATH)\Logical\Libraries\standard\standard.var&quot; -P &quot;$(AS_PROJECT_PATH)&quot; " />
     <AdditionalBuildTrigger Key="IecDeclarationsInAnsiC" Value="False" />
   </Rule>
@@ -141,21 +180,22 @@
     <CommandLine Parameter=" -r -f &quot;$(AS_PROJECT_PATH)\Temp\Objects\Config1\X20CP1382\#cpu_tp.mak&quot; -k" />
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\binaries\config1\x20cp1382\transfer.lst">
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\ashwac.br" LastWriteTime="2020-10-19 11:17:54" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sysconf.br" LastWriteTime="2020-10-19 11:17:56" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\asfw.br" LastWriteTime="2020-10-19 11:17:56" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\ashwd.br" LastWriteTime="2020-10-19 11:17:56" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\arconfig.br" LastWriteTime="2020-10-19 11:17:54" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\udbdef.br" LastWriteTime="2020-04-07 09:33:28" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\iomap.br" LastWriteTime="2020-10-19 11:17:56" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata.br" LastWriteTime="2020-10-19 11:17:56" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\role.br" LastWriteTime="2020-10-19 11:17:54" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\user.br" LastWriteTime="2020-10-19 11:17:54" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\fwrules.br" LastWriteTime="2020-10-19 11:17:54" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t.br" LastWriteTime="2020-10-19 11:17:50" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1.br" LastWriteTime="2020-10-20 07:19:22" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\standard.br" LastWriteTime="2020-05-28 13:05:02" />
-    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.sw" LastWriteTime="2020-10-20 07:15:32" />
-    <CommandLine Parameter=" &quot;$(AS_PROJECT_PATH)\Lecture_07_jbl.apj&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -o &quot;$(AS_PROJECT_PATH)\Binaries&quot; -c &quot;Config1&quot; -i &quot;C:\BrAutomation\AS48&quot; -S &quot;X20CP1382&quot; -A &quot;X20CP1382&quot; -pil -swFiles &quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\Cpu.sw&quot; -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; -C &quot;/COMT=2500 /RT=1000 /AM=* /SDT=5 /DAIP=10.0.0.50 /REPO=11159 /ANSL=1 /PT=11169&quot; -D &quot;/IF=tcpip /LOPO=11159 /SA=1&quot; -M IA32 -T SG4" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\ashwac.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\sysconf.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\asfw.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\ashwd.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\arconfig.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\udbdef.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\iomap.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\tcdata.br" LastWriteTime="2020-10-20 07:31:22" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\role.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\user.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\fwrules.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave2.br" LastWriteTime="2020-10-20 08:14:52" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\blinklys_t.br" LastWriteTime="2020-10-20 07:31:20" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\opgave1.br" LastWriteTime="2020-10-20 07:43:40" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\standard.br" LastWriteTime="2020-10-20 07:30:08" />
+    <Prerequisite ID="$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.sw" LastWriteTime="2020-10-20 07:47:50" />
+    <CommandLine Parameter=" &quot;$(AS_PROJECT_PATH)\Lecture_07_jbl.apj&quot; -t &quot;$(AS_PROJECT_PATH)\Temp&quot; -o &quot;$(AS_PROJECT_PATH)\Binaries&quot; -c &quot;Config1&quot; -i &quot;C:\BrAutomation\AS48&quot; -S &quot;X20CP1382&quot; -A &quot;X20CP1382&quot; -pil -swFiles &quot;$(AS_PROJECT_PATH)\Physical\Config1\X20CP1382\Cpu.sw&quot; -Z &quot;UnitSystem: n.d, Connectivity: n.d, ProgrammingSystem: n.d, TextSystem: n.d, RemanentData: n.d, AAS: n.d&quot; -C &quot;/RT=1000 /AM=*&quot; -D &quot;/IF=COM1 /BD=57600 /PA=2 /IT=20 /RS=0&quot; -M IA32 -T SG4" />
   </Rule>
 </RuleSetOptions>
