@@ -9,7 +9,6 @@
   <TaskClass Name="Cyclic#6">
     <Task Name="Blinklys_t" Source="Blinklys_opg_i_timerne.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="Opgave1" Source="Opgave1.prg" Memory="UserROM" Language="IEC" Debugging="true" />
-    <Task Name="Opgave2" Source="Opgave2.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
   <TaskClass Name="Cyclic#7" />
   <TaskClass Name="Cyclic#8" />

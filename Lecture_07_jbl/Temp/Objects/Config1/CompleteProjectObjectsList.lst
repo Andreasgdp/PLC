@@ -5,7 +5,7 @@
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Package.pkg"
     LogicalPath=""
     Type="Package.ParentUnknown"
-    LastWriteTime="132464629850419035" />
+    LastWriteTime="132476517532635331" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Global.typ"
     LogicalPath="Global.typ"
@@ -165,47 +165,47 @@
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave1\IEC.prg"
     LogicalPath="Opgave1"
     Type="Program"
-    LastWriteTime="132464626109260812" />
+    LastWriteTime="132464628488545026" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave1\Main.st"
     LogicalPath="Opgave1.Main.st"
     Type="File"
-    LastWriteTime="132464626662583104"
+    LastWriteTime="132476517931772449"
     Private="false" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave1\Types.typ"
     LogicalPath="Opgave1.Types.typ"
     Type="File"
-    LastWriteTime="132464626109240865"
+    LastWriteTime="132464628488525077"
     Private="true" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave1\Variables.var"
     LogicalPath="Opgave1.Variables.var"
     Type="File"
-    LastWriteTime="132464626687753883"
+    LastWriteTime="132476517976434246"
     Private="true" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave2\IEC.prg"
     LogicalPath="Opgave2"
     Type="Program"
-    LastWriteTime="132464628488545026" />
+    LastWriteTime="132476517532535697" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave2\Main.st"
     LogicalPath="Opgave2.Main.st"
     Type="File"
-    LastWriteTime="132475812061911752"
+    LastWriteTime="132476519394726985"
     Private="false" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave2\Types.typ"
     LogicalPath="Opgave2.Types.typ"
     Type="File"
-    LastWriteTime="132464628488525077"
+    LastWriteTime="132476517532493464"
     Private="true" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Logical\Opgave2\Variables.var"
     LogicalPath="Opgave2.Variables.var"
     Type="File"
-    LastWriteTime="132475733104817966"
+    LastWriteTime="132476519048003398"
     Private="true" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Physical\Config1\Config.pkg"
@@ -233,7 +233,7 @@
     Path="C:\GitHub\PLC\Lecture_07_jbl\Physical\Config1\X20CP1382\Cpu.sw"
     LogicalPath="Config1.X20CP1382.Cpu.sw"
     Type="File"
-    LastWriteTime="132475762737634379"
+    LastWriteTime="132476517338695764"
     Private="false" />
   <Object
     Path="C:\GitHub\PLC\Lecture_07_jbl\Physical\Config1\X20CP1382\Cpu.per"

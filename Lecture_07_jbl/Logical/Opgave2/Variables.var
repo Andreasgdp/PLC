@@ -2,6 +2,5 @@ VAR
 	i : USINT;
 	shift : BOOL;
 	lights : ARRAY[0..15] OF BOOL;
-	j : USINT;
-	tmp : BOOL;
+	timer : TON;
 END_VAR

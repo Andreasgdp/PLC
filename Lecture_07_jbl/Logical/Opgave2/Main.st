@@ -7,6 +7,10 @@ END_PROGRAM
 
 PROGRAM _CYCLIC
 	(* Insert code here *)
+	timer(IN := NOT timer.Q, PT := T#1s);
+	IF timer.Q THEN
+		light := NOT light;
+	END_IF
 	
 	IF (shift) THEN
 		FOR i := 0 TO 15 BY 1 DO
@@ -20,10 +24,10 @@ PROGRAM _CYCLIC
 		END_FOR;
 	END_IF;		
 	 
-			END_PROGRAM
+END_PROGRAM
 
-			PROGRAM _EXIT
-			(* Insert code here *)
+PROGRAM _EXIT
+	(* Insert code here *)
 	 
-			END_PROGRAM
+END_PROGRAM
 

@@ -1,3 +1,5 @@
 VAR
-	var : USINT;
+	i : USINT;
+	shift : BOOL;
+	lights : ARRAY[0..15] OF BOOL;
 END_VAR

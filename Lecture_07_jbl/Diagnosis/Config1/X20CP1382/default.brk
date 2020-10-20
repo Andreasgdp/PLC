@@ -1,11 +1,2 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<breakpoints>
-  <breakpoint>
-    <status>Y</status>
-    <file>Logical/Opgave2/Main.st</file>
-    <position>13</position>
-    <condition></condition>
-    <instance></instance>
-    <program>Opgave2</program>
-  </breakpoint>
-</breakpoints>
+<breakpoints />
