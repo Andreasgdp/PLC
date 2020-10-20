@@ -3,6 +3,14 @@
   <breakpoint>
     <status>Y</status>
     <file>Logical/Opgave2/Main.st</file>
+    <position>14</position>
+    <condition></condition>
+    <instance></instance>
+    <program>Opgave2</program>
+  </breakpoint>
+  <breakpoint>
+    <status>Y</status>
+    <file>Logical/Opgave2/Main.st</file>
     <position>15</position>
     <condition></condition>
     <instance></instance>
@@ -11,15 +19,7 @@
   <breakpoint>
     <status>Y</status>
     <file>Logical/Opgave2/Main.st</file>
-    <position>19</position>
-    <condition></condition>
-    <instance></instance>
-    <program>Opgave2</program>
-  </breakpoint>
-  <breakpoint>
-    <status>Y</status>
-    <file>Logical/Opgave2/Main.st</file>
-    <position>13</position>
+    <position>16</position>
     <condition></condition>
     <instance></instance>
     <program>Opgave2</program>

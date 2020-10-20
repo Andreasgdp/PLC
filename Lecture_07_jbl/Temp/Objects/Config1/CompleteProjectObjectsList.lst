@@ -193,7 +193,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\Lecture_07_jbl\Logical\Opgave2\Main.st"
     LogicalPath="Opgave2.Main.st"
     Type="File"
-    LastWriteTime="132476552867872974"
+    LastWriteTime="132476616671574897"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\Lecture_07_jbl\Logical\Opgave2\Types.typ"
@@ -216,7 +216,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\Lecture_07_jbl\Physical\Config1\Hardware.hw"
     LogicalPath="Config1.Hardware.hw"
     Type="File"
-    LastWriteTime="132476526093372410"
+    LastWriteTime="132476612233824419"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\Lecture_07_jbl\Physical\Config1\Hardware.hwl"
@@ -233,7 +233,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\Lecture_07_jbl\Physical\Config1\X20CP1382\Cpu.sw"
     LogicalPath="Config1.X20CP1382.Cpu.sw"
     Type="File"
-    LastWriteTime="132476536718247391"
+    LastWriteTime="132476609849398453"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\Lecture_07_jbl\Physical\Config1\X20CP1382\Cpu.per"
