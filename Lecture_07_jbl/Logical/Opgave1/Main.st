@@ -8,6 +8,7 @@ END_PROGRAM
 PROGRAM _CYCLIC
 	(* Insert code here *)
 	
+	(*
 	IF (shift) THEN
 		FOR i := 0 TO 15 BY 1 DO
 			IF (i = 0) THEN
@@ -18,7 +19,18 @@ PROGRAM _CYCLIC
 				lights[i - 1] := FALSE;
 			END_IF;
 		END_FOR;
-	END_IF;		
+	END_IF;	
+	*)
+	
+	IF shift THEN
+		tmp:= lights[0];
+		
+		FOR i := 0 TO 14 BY 1 DO
+			lights[i] := lights[i + 1];
+		END_FOR
+		
+		lights[15] := tmp;
+	END_IF
 	 
 END_PROGRAM
 
