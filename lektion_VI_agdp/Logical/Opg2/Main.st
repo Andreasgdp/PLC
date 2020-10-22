@@ -3,9 +3,6 @@ PROGRAM _INIT
 	(* Insert code here *)
 	array[0] := TRUE;
 	shift := TRUE;
-	
-
-
 END_PROGRAM
 
 PROGRAM _CYCLIC
