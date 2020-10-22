@@ -1,0 +1,5 @@
+VAR
+	input : BOOL;
+	old_input : BOOL;
+	falling_edge : BOOL;
+END_VAR
