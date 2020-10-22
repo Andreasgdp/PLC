@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <?AutomationStudio Version=4.8.2.72?>
 <State Top="0" Left="0" Width="0" Height="0" WindowState="Normal" xmlns="http://br-automation.co.at/AS/State">
-  <TextEdit ID="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_08_jbl\Logical\Program\Main.st" CaretLine="17" CaretColumn="1" FirstVisibleLine="1">
+  <TextEdit ID="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_08_jbl\Logical\Assignment2_if\Main.st" CaretLine="12" CaretColumn="91" FirstVisibleLine="1">
     <Bookmarks />
   </TextEdit>
-  <TreeView ID="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_08_jbl\Logical\Program\Variables.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
+  <TreeView ID="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_08_jbl\Logical\Assignment2_if\Variables.var" EditColumn="1" TopRow="0" HorizontalScrollOffset="0" SortedColumn="0">
     <Columns>
       <Column Index="0" Width="200" Position="0" />
       <Column Index="1" Width="100" Position="1" />
@@ -19,7 +19,9 @@
       <Column Index="10" Width="0" Position="10" />
     </Columns>
     <ExpandedNodes />
-    <SelectedNodes />
+    <SelectedNodes>
+      <SelectedNode Row="0" />
+    </SelectedNodes>
     <ZoomIndices />
   </TreeView>
 </State>
