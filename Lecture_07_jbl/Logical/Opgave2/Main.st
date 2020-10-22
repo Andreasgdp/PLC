@@ -27,7 +27,7 @@ PROGRAM _CYCLIC
 	
 	timer(IN := shift AND NOT timer.Q, PT := T#2s);
 	
-	IF shift AND timer.Q THEN
+	IF timer.Q THEN
 		tmp:= lights[0];
 		
 		FOR i := 0 TO 14 BY 1 DO
