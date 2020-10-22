@@ -1,0 +1,5 @@
+VAR
+	A : USINT;
+	shift : BOOL;
+	i : USINT;
+END_VAR
