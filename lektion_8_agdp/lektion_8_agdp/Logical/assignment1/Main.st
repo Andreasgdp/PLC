@@ -7,17 +7,29 @@ END_PROGRAM
 
 PROGRAM _CYCLIC
 	(* Insert code here *)
-	IF input = TRUE THEN
+//	This does not work correctly
+//	IF input = TRUE THEN
+//		old_input := FALSE;
+//	ELSE
+//		old_input := TRUE;
+//	END_IF;
+//	
+//	IF input = FALSE AND old_input = TRUE THEN
+//		falling_edge := TRUE;
+//	ELSE
+//		falling_edge := FALSE;
+//	END_IF;
+	
+
+//	This works correctly
+	IF RESET THEN
 		old_input := FALSE;
 	ELSE
-		old_input := TRUE;
+		falling_edge := old_input AND NOT input;
+		old_input := input;
 	END_IF;
 	
-	IF input = FALSE AND old_input = TRUE THEN
-		falling_edge := TRUE;
-	ELSE
-		falling_edge := FALSE;
-	END_IF;
+	
 	
 
 	

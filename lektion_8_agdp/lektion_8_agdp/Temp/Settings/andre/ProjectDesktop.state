@@ -1,3 +1,3 @@
 <?xml version="1.0"?>
 <?AutomationStudio Version=3.0?>
-<Project xmlns="http://br-automation.co.at/AS/Project"><Active ID="0"/><Configuration Name="Config1"/><ConfigurationFiles ConfigurationName="Config1" ActiveConfigurationFile="\Logical\assignment2\Main.st"><ConfigurationFile Placement="\Logical\assignment2\Main.st,assignment2,2,44,0,1,-1,-1,-1,-1,2,24,1896,1100"/><ConfigurationFile Placement="\Logical\assignment2_if_statements\Variables.var,assignment2,1,44,0,1,-1,-1,-1,-1,2,24,1896,1100"/></ConfigurationFiles></Project>
+<Project xmlns="http://br-automation.co.at/AS/Project"><Active ID="0"/><Configuration Name="Config1"/><ConfigurationFiles xmlns="" ConfigurationName="Config1" ActiveConfigurationFile="\Logical\assignment2_preben\Main.st"><ConfigurationFile Placement="\Logical\assignment2_preben\Main.st,assignment2_preben,2,44,0,1,-1,-1,-1,-1,2,24,1896,1100"/></ConfigurationFiles></Project>

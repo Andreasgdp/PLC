@@ -7,5 +7,6 @@
     <Object Type="Package" Description="Global libraries">Libraries</Object>
     <Object Type="Program" Language="IEC">assignment1</Object>
     <Object Type="Program" Language="IEC">assignment2</Object>
+    <Object Type="Program" Language="IEC">assignment2_preben</Object>
   </Objects>
 </Package>

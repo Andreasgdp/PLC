@@ -1,0 +1,25 @@
+VAR
+
+	diConvTop : BOOL;
+
+	diConvBottom : BOOL;
+
+	diBoxOnLift : BOOL;
+
+	diLiftTop : BOOL;
+
+	diLiftBottom : BOOL;
+
+	diLiftUnload : BOOL;
+
+	doLiftUnload : BOOL;
+
+	doLiftBottom : BOOL;
+
+	doLiftTop : BOOL;
+
+	doConvBottom : BOOL;
+
+	doConvTop : BOOL;
+
+ END_VAR

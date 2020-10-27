@@ -124,7 +124,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Logical\assignment1\Main.st"
     LogicalPath="assignment1.Main.st"
     Type="File"
-    LastWriteTime="132478454312892541"
+    LastWriteTime="132482789692687849"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Logical\assignment1\Types.typ"
@@ -136,7 +136,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Logical\assignment1\Variables.var"
     LogicalPath="assignment1.Variables.var"
     Type="File"
-    LastWriteTime="132478451699806376"
+    LastWriteTime="132482788812284623"
     Private="true" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Logical\assignment2\IEC.prg"
@@ -147,7 +147,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Logical\assignment2\Main.st"
     LogicalPath="assignment2.Main.st"
     Type="File"
-    LastWriteTime="132478475272600537"
+    LastWriteTime="132478476677298550"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Logical\assignment2\Types.typ"
@@ -187,7 +187,7 @@
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Physical\Config1\X20CP1382\Cpu.sw"
     LogicalPath="Config1.X20CP1382.Cpu.sw"
     Type="File"
-    LastWriteTime="132478468098308917"
+    LastWriteTime="132482787749918595"
     Private="false" />
   <Object
     Path="C:\Users\andre\Documents\GitHub\PLC\lektion_8_agdp\lektion_8_agdp\Physical\Config1\X20CP1382\Cpu.per"
