@@ -1,0 +1,8 @@
+VAR
+	castate : BLINDS;
+	diOpen : BOOL;
+	diClose : BOOL;
+	timer : TON;
+	doMoveDown : BOOL;
+	doMoveUp : BOOL;
+END_VAR
