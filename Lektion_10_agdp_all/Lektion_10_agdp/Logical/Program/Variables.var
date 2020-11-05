@@ -9,4 +9,5 @@ VAR
 	TcpClose1 : TcpClose;
 	TcpClose2 : TcpClose;
 	testUA : INT;
+	saver : STRING[80];
 END_VAR

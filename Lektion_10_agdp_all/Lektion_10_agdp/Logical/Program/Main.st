@@ -31,8 +31,11 @@ PROGRAM _CYCLIC
 			TcpReceive1.datamax := SIZEOF(receiveData);
 			TcpReceive1();
 			IF (TcpReceive1.status = ERR_OK) THEN
+				saver := '';
+				saver := receiveData;
 				tcpst := TCPSTATE_SEND;
 				sendData := receiveData;
+				TcpReceive1.datamax := SIZEOF('');
 			END_IF
 
 		TCPSTATE_SEND :
@@ -46,6 +49,7 @@ PROGRAM _CYCLIC
 			END_IF
 
 		TCPSTATE_CLOSE :
+			sendData := receiveData := '';
 			TcpClose1.enable := TRUE;
 			TcpClose1.ident := TcpServer1.identclnt;
 			TcpClose1();
