@@ -7,7 +7,7 @@ public class Client {
 			Socket s = new Socket("127.0.0.1", 12345);
 			PrintWriter pr = new PrintWriter(s.getOutputStream());
 	
-			pr.println("It is good");
+			pr.println("Tester");
 			pr.flush();
 	
 			InputStreamReader in = new InputStreamReader(s.getInputStream());
