@@ -1,21 +1,21 @@
-Thu Nov  5 12:45:45 2020
+Sat Nov  7 18:07:30 2020
 COPYRIGHT (C) B&R Industrial Automation GmbH
 
-Thu Nov  5 12:45:45 2020
+Sat Nov  7 18:07:30 2020
 No ARsim registration found!
 
-Thu Nov  5 12:45:45 2020
-InstanceName: 01d6b369326b9e60
+Sat Nov  7 18:07:30 2020
+InstanceName: 01d6b5287a3a2ac0
 
-Thu Nov  5 12:45:45 2020
+Sat Nov  7 18:07:30 2020
 WorkingDirectory: C:\Users\andre\Documents\GitHub\PLC\Lektion_10_agdp_all\Lektion_10_agdp\Temp\Simulation\Config1\X20CP1382\
 
-Thu Nov  5 12:45:45 2020
+Sat Nov  7 18:07:30 2020
 COMMAND_COLDSTART
 
-Thu Nov  5 12:45:47 2020
+Sat Nov  7 18:07:33 2020
 Version: B4.82
 
-Thu Nov  5 12:45:48 2020
+Sat Nov  7 18:07:59 2020
 COMMAND_TERMINATE
 
