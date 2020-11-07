@@ -1,17 +1,17 @@
 
 TYPE
-	TRAFFICLIGHT_1 : 
+	case2 : 
 		(
-		T1_STOPPED,
-		T1_READY,
-		T1_STOP,
-		T1_GO
+		a,
+		b,
+		c,
+		d
 		);
-	TRAFFICLIGHT_2 : 
+	TRAFFICLIGHT : 
 		(
-		T2_STOPPED,
-		T2_READY,
-		T2_STOP,
-		T2_GO
+		STOPPED,
+		READY,
+		STOP,
+		GO
 		);
 END_TYPE

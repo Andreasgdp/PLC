@@ -1,47 +1,66 @@
 
 PROGRAM _INIT
 	(* Insert code here *)
-	T1_state := T1_GO;
-	T2_state := T2_STOPPED;
-	timer.IN := FALSE;
-	 
+	T1_state := GO;
+	T2_state := STOPPED;
+	castate := a;
+	
 END_PROGRAM
 
 PROGRAM _CYCLIC
 	// Trafficlight 1
 	// Tilstandsskiftlogik / state change logic
+	timer.IN := TRUE;
 	CASE T1_state OF
-		T1_GO:
-			IF shift THEN
-				T1_state := T1_STOP;
-			END_IF
-			T2_state := T2_STOPPED;
-		T1_STOP:
+		GO:
 			timer.PT := T#2s;
-			IF timer.Q THEN
-				T1_state := T1_STOPPED;
-			END_IF
-		T1_STOPPED:
-			timer.IN := FALSE;
-			timer.PT := T#2s;
-			IF timer.Q THEN
-				T2_state := T2_GO;
-			END_IF
-			IF shift THEN
-				T2_state := T2_STOP;
+			IF timer.Q AND shift THEN
+				T1_state := STOP;
 				timer.IN := FALSE;
-				timer.PT := T#2s;
-				IF timer.Q THEN
-					T1_state := T1_READY;
-					T2_state := T2_STOPPED;
-					timer.IN := FALSE;
-				END_IF
 			END_IF
-			T2_state := T2_READY;
-		T1_READY:
+			T2_state := STOPPED;
+			
+		STOP:
 			timer.PT := T#2s;
 			IF timer.Q THEN
-				T1_state := T1_GO;
+				T1_state := STOPPED;
+				timer.IN := FALSE;
+			END_IF
+			T2_state := STOPPED;
+			
+		STOPPED:
+			CASE castate OF
+				a:
+					T2_state := READY;
+					castate := b;
+				b:
+					timer.PT := T#2s;
+					IF timer.Q THEN
+						T2_state := GO;
+						timer.IN := FALSE;
+						castate := c;
+					END_IF
+				c:
+					timer.PT := T#2s;
+					IF T2_state = GO AND timer.Q AND shift THEN
+						T2_state := STOP;
+						timer.IN := FALSE;
+						castate := d;
+					END_IF
+				d:	
+					timer.PT := T#2s;
+					IF timer.Q THEN
+						T2_state := STOPPED;
+						T1_state := READY;
+						timer.IN := FALSE;
+					END_IF
+			END_CASE
+			
+		READY:
+			castate := a;
+			timer.PT := T#2s;
+			IF timer.Q THEN
+				T1_state := GO;
 				timer.IN := FALSE;
 			END_IF
 	END_CASE
@@ -49,19 +68,19 @@ PROGRAM _CYCLIC
 
 	// OUTPUT LOGIC
 	CASE T1_state OF
-		T1_GO:
+		GO:
 			T1_red := FALSE;
 			T1_yellow := FALSE;
 			T1_green := TRUE;
-		T1_STOP:
+		STOP:
 			T1_red := FALSE;
 			T1_yellow := TRUE;
 			T1_green := FALSE;
-		T1_STOPPED:
+		STOPPED:
 			T1_red := TRUE;
 			T1_yellow := FALSE;
 			T1_green := FALSE;
-		T1_READY:
+		READY:
 			T1_red := TRUE;
 			T1_yellow := TRUE;
 			T1_green := FALSE;
@@ -71,19 +90,19 @@ PROGRAM _CYCLIC
 	// Trafficlight 2
 	// OUTPUT LOGIC
 	CASE T2_state OF
-		T2_GO:
+		GO:
 			T2_red := FALSE;
 			T2_yellow := FALSE;
 			T2_green := TRUE;
-		T2_STOP:
+		STOP:
 			T2_red := FALSE;
 			T2_yellow := TRUE;
 			T2_green := FALSE;
-		T2_STOPPED:
+		STOPPED:
 			T2_red := TRUE;
 			T2_yellow := FALSE;
 			T2_green := FALSE;
-		T2_READY:
+		READY:
 			T2_red := TRUE;
 			T2_yellow := TRUE;
 			T2_green := FALSE;
