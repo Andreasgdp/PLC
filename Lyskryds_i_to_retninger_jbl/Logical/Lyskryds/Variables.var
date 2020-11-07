@@ -1,0 +1,12 @@
+VAR
+	T1_state : TRAFFICLIGHT_1;
+	T1_yellow : BOOL;
+	T1_green : BOOL;
+	T1_red : BOOL;
+	shift : BOOL;
+	timer : TON;
+	T2_state : TRAFFICLIGHT_2;
+	T2_yellow : BOOL;
+	T2_green : BOOL;
+	T2_red : BOOL;
+END_VAR

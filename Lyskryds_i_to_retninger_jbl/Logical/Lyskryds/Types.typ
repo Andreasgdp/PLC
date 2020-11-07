@@ -1,0 +1,17 @@
+
+TYPE
+	TRAFFICLIGHT_1 : 
+		(
+		T1_STOPPED,
+		T1_READY,
+		T1_STOP,
+		T1_GO
+		);
+	TRAFFICLIGHT_2 : 
+		(
+		T2_STOPPED,
+		T2_READY,
+		T2_STOP,
+		T2_GO
+		);
+END_TYPE

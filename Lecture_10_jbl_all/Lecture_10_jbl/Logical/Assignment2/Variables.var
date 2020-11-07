@@ -1,0 +1,16 @@
+VAR
+	ready : BOOL;
+	currentBuffer : BOOL;
+	data1 : STRING[80];
+	data2 : STRING[80];
+	tcpst : TCPSTATE;
+	sendData : STRING[80];
+	receiveData : STRING[80];
+	TcpOpen1 : TcpOpen;
+	TcpServer1 : TcpServer;
+	TcpReceive1 : TcpRecv;
+	TcpSend1 : TcpSend;
+	TcpClose1 : TcpClose;
+	TcpClose2 : TcpClose;
+	testUA : INT;
+END_VAR
