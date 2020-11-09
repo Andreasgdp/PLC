@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.8.2.72"?>
+<Objects>
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Package.pkg"
+    LogicalPath=""
+    Type="Package.ParentUnknown"
+    LastWriteTime="132493044981815493" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Global.typ"
+    LogicalPath="Global.typ"
+    Type="File"
+    LastWriteTime="132492319607123592"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Global.var"
+    LogicalPath="Global.var"
+    Type="File"
+    LastWriteTime="132492319607263253"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\Package.pkg"
+    LogicalPath="Libraries"
+    Type="Package"
+    LastWriteTime="132492321683266461" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\operator\binary.lby"
+    LogicalPath="Libraries.operator"
+    Type="Library"
+    LastWriteTime="132492319612280040" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\operator\operator.fun"
+    LogicalPath="Libraries.operator.operator.fun"
+    Type="File"
+    LastWriteTime="132492319612189750"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\operator\operator.typ"
+    LogicalPath="Libraries.operator.operator.typ"
+    Type="File"
+    LastWriteTime="132492319612219824"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\operator\operator.var"
+    LogicalPath="Libraries.operator.operator.var"
+    Type="File"
+    LastWriteTime="132492319612280040"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\runtime\binary.lby"
+    LogicalPath="Libraries.runtime"
+    Type="Library"
+    LastWriteTime="132492319614973954" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\runtime\runtime.fun"
+    LogicalPath="Libraries.runtime.runtime.fun"
+    Type="File"
+    LastWriteTime="132492319614854272"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\runtime\runtime.typ"
+    LogicalPath="Libraries.runtime.runtime.typ"
+    Type="File"
+    LastWriteTime="132492319614914112"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\runtime\runtime.var"
+    LogicalPath="Libraries.runtime.runtime.var"
+    Type="File"
+    LastWriteTime="132492319614973954"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\astime\binary.lby"
+    LogicalPath="Libraries.astime"
+    Type="Library"
+    LastWriteTime="132492319617746536" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\astime\astime.fun"
+    LogicalPath="Libraries.astime.astime.fun"
+    Type="File"
+    LastWriteTime="132492319617647071"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\astime\astime.typ"
+    LogicalPath="Libraries.astime.astime.typ"
+    Type="File"
+    LastWriteTime="132492319617696659"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\astime\astime.var"
+    LogicalPath="Libraries.astime.astime.var"
+    Type="File"
+    LastWriteTime="132492319617746536"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\AsIecCon\binary.lby"
+    LogicalPath="Libraries.AsIecCon"
+    Type="Library"
+    LastWriteTime="132492319620395528" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\AsIecCon\AsIecCon.fun"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.fun"
+    Type="File"
+    LastWriteTime="132492319620355933"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\AsIecCon\AsIecCon.typ"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.typ"
+    Type="File"
+    LastWriteTime="132492319620375874"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\AsIecCon\AsIecCon.var"
+    LogicalPath="Libraries.AsIecCon.AsIecCon.var"
+    Type="File"
+    LastWriteTime="132492319620385554"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\standard\binary.lby"
+    LogicalPath="Libraries.standard"
+    Type="Library"
+    LastWriteTime="132492321683126543" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\standard\standard.fun"
+    LogicalPath="Libraries.standard.standard.fun"
+    Type="File"
+    LastWriteTime="132492321683076683"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\standard\standard.typ"
+    LogicalPath="Libraries.standard.standard.typ"
+    Type="File"
+    LastWriteTime="132492321683086650"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Libraries\standard\standard.var"
+    LogicalPath="Libraries.standard.standard.var"
+    Type="File"
+    LastWriteTime="132492321683126543"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\IEC.prg"
+    LogicalPath="Lyskryds"
+    Type="Program"
+    LastWriteTime="132484549739970872" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\Main.st"
+    LogicalPath="Lyskryds.Main.st"
+    Type="File"
+    LastWriteTime="132493047064121738"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\Types.typ"
+    LogicalPath="Lyskryds.Types.typ"
+    Type="File"
+    LastWriteTime="132493037446607116"
+    Private="true" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\Variables.var"
+    LogicalPath="Lyskryds.Variables.var"
+    Type="File"
+    LastWriteTime="132493038197383876"
+    Private="true" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\Config.pkg"
+    LogicalPath="Config1"
+    Type="Configuration.ParentUnknown"
+    LastWriteTime="132492319643813204" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\Hardware.hw"
+    LogicalPath="Config1.Hardware.hw"
+    Type="File"
+    LastWriteTime="132492493510776187"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\Hardware.hwl"
+    LogicalPath="Config1.Hardware.hwl"
+    Type="File"
+    LastWriteTime="132492319708002802"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\Cpu.pkg"
+    LogicalPath="Config1.X20CP1382"
+    Type="Cpu"
+    LastWriteTime="132492319625294346" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\Cpu.sw"
+    LogicalPath="Config1.X20CP1382.Cpu.sw"
+    Type="File"
+    LastWriteTime="132493045118252271"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\Cpu.per"
+    LogicalPath="Config1.X20CP1382.Cpu.per"
+    Type="File"
+    LastWriteTime="132492319622418894"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\IoMap.iom"
+    LogicalPath="Config1.X20CP1382.IoMap.iom"
+    Type="File"
+    LastWriteTime="132492319622498969"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\PvMap.vvm"
+    LogicalPath="Config1.X20CP1382.PvMap.vvm"
+    Type="File"
+    LastWriteTime="132492319622558522"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\Connectivity\Package.pkg"
+    LogicalPath="Config1.X20CP1382.Connectivity"
+    Type="Package"
+    LastWriteTime="132492319622987367" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\Connectivity\OpcUA\Package.pkg"
+    LogicalPath="Config1.X20CP1382.Connectivity.OpcUA"
+    Type="Package"
+    LastWriteTime="132492319622937797" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\TextSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1382.TextSystem"
+    Type="Package"
+    LastWriteTime="132492319623136968" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\UnitSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1382.UnitSystem"
+    Type="Package"
+    LastWriteTime="132492319623286568" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity"
+    Type="Package"
+    LastWriteTime="132492319624691448" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.UserRoleSystem"
+    Type="Package"
+    LastWriteTime="132492319623545875" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\Role.role"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.UserRoleSystem.Role.role"
+    Type="File"
+    LastWriteTime="132492319623516176"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\UserRoleSystem\User.user"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.UserRoleSystem.User.user"
+    Type="File"
+    LastWriteTime="132492319623545875"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore"
+    Type="Package"
+    LastWriteTime="132492319624362328" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\OwnCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.OwnCertificates"
+    Type="Package"
+    LastWriteTime="132492319623855053" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\OwnCertificates\Certificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.OwnCertificates.Certificates"
+    Type="Package"
+    LastWriteTime="132492319623695473" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\OwnCertificates\PrivateKeys\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.OwnCertificates.PrivateKeys"
+    Type="Package"
+    LastWriteTime="132492319623805181" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.ThirdPartyCertificates"
+    Type="Package"
+    LastWriteTime="132492319624083080" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\ThirdPartyCertificates\SoftwareCertificates\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.ThirdPartyCertificates.SoftwareCertificates"
+    Type="Package"
+    LastWriteTime="132492319624034568" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\CertificateRevocationLists\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.CertificateRevocationLists"
+    Type="Package"
+    LastWriteTime="132492319624192788" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\CertificateStore\CertificateSigningRequests\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.CertificateStore.CertificateSigningRequests"
+    Type="Package"
+    LastWriteTime="132492319624302487" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\TransportLayerSecurity\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.TransportLayerSecurity"
+    Type="Package"
+    LastWriteTime="132492319624472032" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\Firewall\Package.pkg"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.Firewall"
+    Type="Package"
+    LastWriteTime="132492319624641583" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\AccessAndSecurity\Firewall\Rules.firewallRules"
+    LogicalPath="Config1.X20CP1382.AccessAndSecurity.Firewall.Rules.firewallRules"
+    Type="File"
+    LastWriteTime="132492319624641583"
+    Private="false" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\mappControl\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappControl"
+    Type="Package"
+    LastWriteTime="132492319624821100" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\mappMotion\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappMotion"
+    Type="Package"
+    LastWriteTime="132492319624900890" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\mappServices\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappServices"
+    Type="Package"
+    LastWriteTime="132492319625030541" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\mappView\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappView"
+    Type="Package"
+    LastWriteTime="132492319625114828" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\X20CP1382\mappCockpit\Package.pkg"
+    LogicalPath="Config1.X20CP1382.mappCockpit"
+    Type="Package"
+    LastWriteTime="132492319625244477" />
+  <Object
+    Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Physical\Config1\Hardware.jpg"
+    LogicalPath="Config1.Hardware.jpg"
+    Type="File"
+    LastWriteTime="132492319708082594"
+    Private="false" />
+</Objects>
