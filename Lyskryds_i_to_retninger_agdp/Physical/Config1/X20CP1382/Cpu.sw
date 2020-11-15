@@ -7,6 +7,8 @@
   <TaskClass Name="Cyclic#4">
     <Task Name="Program" Source="Program.prg" Memory="UserROM" Language="IEC" Debugging="true" />
     <Task Name="Program1" Source="Program1.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="PeerAssesm" Source="PeerAssesment.prg" Memory="UserROM" Language="IEC" Debugging="true" />
+    <Task Name="PeerAsses1" Source="PeerAssesment1.prg" Memory="UserROM" Language="IEC" Debugging="true" />
   </TaskClass>
   <TaskClass Name="Cyclic#5" />
   <TaskClass Name="Cyclic#6" />
