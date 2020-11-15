@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.8.2.72?>
+<State Top="0" Left="0" Width="0" Height="0" WindowState="Normal" xmlns="http://br-automation.co.at/AS/State">
+  <TextEdit ID="C:\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Logical\Assignment1\Main.st" CaretLine="24" CaretColumn="72" FirstVisibleLine="4">
+    <Bookmarks />
+  </TextEdit>
+  <TextEdit ID="C:\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Logical\Assignment2\Main.st" CaretLine="1" CaretColumn="1" FirstVisibleLine="28">
+    <Bookmarks />
+  </TextEdit>
+</State>
