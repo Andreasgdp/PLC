@@ -1,0 +1,12 @@
+
+{REDUND_ERROR} FUNCTION_BLOCK RF_EDGETRIG (*TODO: Add your comment here*) (*$GROUP=User,$CAT=User,$GROUPICON=User.png,$CATICON=User.png*)
+	VAR_INPUT
+		in : BOOL;
+	END_VAR
+	VAR_OUTPUT
+		Q : BOOL;
+	END_VAR
+	VAR RETAIN
+		old_in : BOOL;
+	END_VAR
+END_FUNCTION_BLOCK

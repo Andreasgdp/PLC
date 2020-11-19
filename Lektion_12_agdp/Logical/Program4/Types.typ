@@ -1,0 +1,11 @@
+
+TYPE
+	STATES : 
+		(
+		STOP,
+		STARTING,
+		EXECUTE,
+		COMPLETE,
+		RESETTING
+		);
+END_TYPE
