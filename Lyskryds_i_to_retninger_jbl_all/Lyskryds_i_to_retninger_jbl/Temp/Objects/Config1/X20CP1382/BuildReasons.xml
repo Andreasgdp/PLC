@@ -1,8 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BuildReasons>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\lyskryds\main.st.o">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\logical\lyskryds\main.st" differs.
-</BuildReason>
+    <BuildReason>Target "main.st.o" does not exist</BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\lyskryds\_bur_pvdef.st.o">
     <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\lyskryds\main.st.o" differs.
@@ -13,15 +12,11 @@
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\lyskryds\lyskryds.ox">
-    <BuildReason>ExternalCommand line differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\lyskryds\a.out" differs.
 </BuildReason>
   </Rule>
   <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\lyskryds.br">
-    <BuildReason>ExternalCommand line differs.
-</BuildReason>
-  </Rule>
-  <Rule ID="$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\iomap.br">
-    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\physical\config1\x20cp1382\cpu.sw" differs.
+    <BuildReason>Prerequiste "$(AS_PROJECT_PATH)\temp\objects\config1\x20cp1382\lyskryds\lyskryds.ox" differs.
 </BuildReason>
   </Rule>
   <Rule ID="#cpu_tp.mak">

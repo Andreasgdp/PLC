@@ -10,14 +10,14 @@ Position X=0 Y=0 Width=0 Height=0 TabWidth Name=250 Type=0 Scope=0 Force=0 Index
                                StartTime                                     TIME    0 "                                                               *"    1   12    1    1    0    0         
                                        M                                     BOOL    0 "                                                               *"    1    1    1    2    0    0         
                                  Restart                                    UDINT    0 "                                                               *"    1    7    1   10    0    0         
-                                   shift                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
+                                   shift                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
                                 T1_state                                     DINT    0 "                                                               0"    0    4    1   10    1    0 e,0,STOP
 
                                   T1_red                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
                                T1_yellow                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
                                 T1_green                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
-                                T2_state                                     DINT    0 "                                                               3"    0    4    1   10    1    0 e,0,STOP
+                                T2_state                                     DINT    0 "                                                               2"    0    4    1   10    1    0 e,0,STOP
 
                                   T2_red                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
-                               T2_yellow                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
-                                T2_green                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
+                               T2_yellow                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
+                                T2_green                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         

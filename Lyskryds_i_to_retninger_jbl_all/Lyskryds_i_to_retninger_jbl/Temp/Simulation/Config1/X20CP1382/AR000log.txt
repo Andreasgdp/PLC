@@ -1,21 +1,21 @@
-Sun Nov  8 11:04:02 2020
+Mon Nov 16 09:22:57 2020
 COPYRIGHT (C) B&R Industrial Automation GmbH
 
-Sun Nov  8 11:04:02 2020
+Mon Nov 16 09:22:57 2020
 No ARsim registration found!
 
-Sun Nov  8 11:04:02 2020
-InstanceName: 01d6b5b67bd17c10
+Mon Nov 16 09:22:57 2020
+InstanceName: 01d6bbf1b0401330
 
-Sun Nov  8 11:04:02 2020
-WorkingDirectory: C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Temp\Simulation\Config1\X20CP1382\
+Mon Nov 16 09:22:57 2020
+WorkingDirectory: C:\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Temp\Simulation\Config1\X20CP1382\
 
-Sun Nov  8 11:04:02 2020
+Mon Nov 16 09:22:57 2020
 COMMAND_COLDSTART
 
-Sun Nov  8 11:04:04 2020
+Mon Nov 16 09:23:00 2020
 Version: B4.82
 
-Sun Nov  8 11:27:33 2020
+Mon Nov 16 09:31:31 2020
 COMMAND_TERMINATE
 

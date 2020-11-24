@@ -19,11 +19,11 @@
       Source="Lyskryds"
       Language="IEC">
       <InternalFile
-        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Temp\Objects\Config1\X20CP1382\Lyskryds\Main.st.var" />
+        Path="C:\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Temp\Objects\Config1\X20CP1382\Lyskryds\Main.st.var" />
       <File
-        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\Types.typ" />
+        Path="C:\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\Types.typ" />
       <File
-        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\Variables.var" />
+        Path="C:\GitHub\PLC\Lyskryds_i_to_retninger_jbl_all\Lyskryds_i_to_retninger_jbl\Logical\Lyskryds\Variables.var" />
     </Task>
   </TaskClass>
   <TaskClass
