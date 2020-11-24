@@ -1,0 +1,11 @@
+VAR
+	shift : BOOL;
+	trafficst : TRAFFIC_LIGHT;
+	timer : TON;
+	doGreen : BOOL;
+	doYellow : BOOL;
+	doRed : BOOL;
+	doRed2 : BOOL;
+	doYellow2 : BOOL;
+	doGreen2 : BOOL;
+END_VAR

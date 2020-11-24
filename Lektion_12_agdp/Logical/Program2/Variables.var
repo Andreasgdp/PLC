@@ -1,0 +1,7 @@
+VAR
+	output : BOOL;
+	input : BOOL;
+END_VAR
+VAR RETAIN
+	r_trigger : R_EDGETRIG;
+END_VAR
