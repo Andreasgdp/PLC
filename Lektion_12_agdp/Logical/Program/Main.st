@@ -7,15 +7,12 @@ END_PROGRAM
 
 PROGRAM _CYCLIC
 	(* Insert code here *)
-	
-	
-	
+
 	c := PYTHA(a, b);
 	
 END_PROGRAM
 
 PROGRAM _EXIT
 	(* Insert code here *)
-	 
 END_PROGRAM
 
