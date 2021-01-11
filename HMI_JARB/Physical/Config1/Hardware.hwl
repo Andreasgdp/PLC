@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <BR.AS.HardwareTopology Version="0.0.0.1">
   <TimeStamps>
-    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="12/12/2020 12:10:55" />
+    <TimeStamp LogicalPath="Config1.Hardware.hw" LastWriteTime="01/10/2021 11:50:36" />
   </TimeStamps>
   <Modules>
     <Module Name="X20CP1382" Type="X20CP1382" X="100" Y="100" />

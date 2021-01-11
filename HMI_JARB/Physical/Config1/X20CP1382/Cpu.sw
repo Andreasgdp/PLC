@@ -10,4 +10,7 @@
   <VcDataObjects>
     <VcDataObject Name="Visu" Source="Visu.dob" Memory="UserROM" Language="Vc" WarningLevel="2" />
   </VcDataObjects>
+  <Libraries>
+    <LibraryObject Name="Library" Source="Libraries.Library.lby" Memory="UserROM" Language="IEC" Debugging="true" />
+  </Libraries>
 </SwConfiguration>

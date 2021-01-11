@@ -19,13 +19,11 @@
     <Connection Connector="X3" TargetModule="X3" TargetConnector="SL" />
     <Connector Name="IF2">
       <Parameter ID="ActivateDevice" Value="1" />
-      <Parameter ID="Mode" Value="Manual" />
-      <Parameter ID="InternetAddress" Value="127.0.0.1" />
       <Group ID="Vnc1" />
       <Parameter ID="VncVcObjectName1" Value="Visu" />
       <Parameter ID="VncKeyMappingFile1" Value="VC\PS2-Keyboard.dis" />
     </Connector>
-    <Parameter ID="ConfigurationID" Value="HMI_Config1" />
+    <Parameter ID="ConfigurationID" Value="HMI_JARB_Config1" />
     <Parameter ID="Simulation" Value="1" />
   </Module>
   <Module Name="X20TB1F" Type="X20TB1F" Version="1.0.0.0" />
