@@ -1,0 +1,5 @@
+VAR
+	c : LREAL;
+	b : REAL;
+	a : REAL;
+END_VAR

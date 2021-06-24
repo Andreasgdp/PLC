@@ -1,0 +1,6 @@
+VAR
+	RESET : BOOL;
+	input : BOOL;
+	old_input : BOOL;
+	falling_edge : BOOL;
+END_VAR

@@ -1,0 +1,10 @@
+
+TYPE
+	TRAFFICLIGHT : 
+		(
+		STOPPED,
+		READY,
+		STOP,
+		GO
+		);
+END_TYPE

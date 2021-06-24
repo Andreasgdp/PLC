@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version="4.8.2.72"?>
+<ConfigInfo xmlns="http://br-automation.co.at/AS/BuildInfo">
+  <TaskClass
+    Name="Cyclic#1" />
+  <TaskClass
+    Name="Cyclic#2" />
+  <TaskClass
+    Name="Cyclic#3" />
+  <TaskClass
+    Name="Cyclic#4">
+    <Task
+      Name="Assignment"
+      Disable="false"
+      Source="Assignment1"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Temp\Objects\Config1\X20CP1382\Assignment\Main.st.var" />
+      <File
+        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Logical\Assignment1\Types.typ" />
+      <File
+        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Logical\Assignment1\Variables.var" />
+    </Task>
+    <Task
+      Name="Assignmen1"
+      Disable="false"
+      Source="Assignment2"
+      Language="IEC">
+      <InternalFile
+        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Temp\Objects\Config1\X20CP1382\Assignmen1\Main.st.var" />
+      <File
+        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Logical\Assignment2\Types.typ" />
+      <File
+        Path="C:\Users\Jacob\Documents\GitHub\PLC\Lecture_10_jbl_all\Lecture_10_jbl\Logical\Assignment2\Variables.var" />
+    </Task>
+  </TaskClass>
+  <TaskClass
+    Name="Cyclic#5" />
+  <TaskClass
+    Name="Cyclic#6" />
+  <TaskClass
+    Name="Cyclic#7" />
+  <TaskClass
+    Name="Cyclic#8" />
+</ConfigInfo>

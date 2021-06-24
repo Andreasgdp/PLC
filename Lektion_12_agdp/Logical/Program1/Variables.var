@@ -1,0 +1,6 @@
+VAR
+	B : BOOL;
+	C : BOOL;
+	A : BOOL;
+	output : BOOL;
+END_VAR

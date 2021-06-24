@@ -1,0 +1,6 @@
+VAR
+	castate : CARALARM;
+	diSensorVibration : BOOL;
+	diRemote : BOOL;
+	doSiren : BOOL;
+END_VAR

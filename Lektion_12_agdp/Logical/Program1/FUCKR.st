@@ -1,0 +1,7 @@
+
+(* TODO: Add your comment here *)
+FUNCTION FUCKR
+	
+	FUCKR := (NOT(A) AND B AND C) OR (A AND NOT(B) AND C) OR (A AND B AND NOT(C)) OR (A AND B AND C);
+	
+END_FUNCTION

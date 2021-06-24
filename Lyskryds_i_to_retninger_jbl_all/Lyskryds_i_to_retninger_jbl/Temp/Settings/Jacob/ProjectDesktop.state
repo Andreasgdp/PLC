@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<?AutomationStudio Version=3.0?>
+<Project xmlns="http://br-automation.co.at/AS/Project"><Active ID="0"/><Configuration Name="Config1"/><ConfigurationFiles xmlns="" ConfigurationName="Config1" ActiveConfigurationFile="\Logical\Lyskryds\Main.st"><ConfigurationFile Placement="\Logical\Lyskryds\Main.st,Lyskryds,2,44,0,1,-1,-1,-1,-1,2,24,1183,664"/><ConfigurationFile Placement="\Logical\Lyskryds\Types.typ,Lyskryds,1,44,0,1,-1,-1,-1,-1,2,24,1183,664"/><ConfigurationFile Placement="\Logical\Lyskryds\Variables.var,Lyskryds,1,44,0,1,-1,-1,-1,-1,2,24,1183,664"/></ConfigurationFiles></Project>

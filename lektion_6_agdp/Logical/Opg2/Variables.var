@@ -1,0 +1,6 @@
+VAR
+	array : ARRAY[0..15] OF BOOL;
+	shift : BOOL;
+	i : USINT;
+	tmp : BOOL;
+END_VAR

@@ -1,0 +1,16 @@
+VAR
+	tlight2 : TRAFFICLIGHT;
+	tlight1 : TRAFFICLIGHT;
+	yellow1 : BOOL;
+	green1 : BOOL;
+	red1 : BOOL;
+	yellow2 : BOOL;
+	green2 : BOOL;
+	red2 : BOOL;
+	timer1 : TON;
+	timer2 : TON;
+	direction : BOOL;
+	diSensor2 : BOOL;
+	diSensor1 : BOOL;
+	ready : BOOL;
+END_VAR

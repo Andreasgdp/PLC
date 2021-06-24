@@ -1,0 +1,9 @@
+VAR
+	doLiftUnload : BOOL;
+	doConvLift : BOOL;
+	doConvTop : BOOL;
+	doConvBot : BOOL;
+	doBoxLift : BOOL;
+	doLiftBot : BOOL;
+	doLiftTop : BOOL;
+END_VAR

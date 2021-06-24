@@ -1,0 +1,10 @@
+
+TYPE
+	TRAFFICLIGHT : 
+		(
+		RED,
+		REDYELLOW,
+		YELLOW,
+		GREEN
+		);
+END_TYPE

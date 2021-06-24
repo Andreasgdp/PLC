@@ -1,0 +1,7 @@
+VAR
+	i : USINT;
+	shift : BOOL;
+	lights : ARRAY[0..15] OF BOOL;
+	timer : TON;
+	tmp : BOOL;
+END_VAR
