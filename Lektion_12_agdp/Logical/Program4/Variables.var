@@ -1,6 +1,0 @@
-VAR
-	state_machine : STATE_MACHINE;
-	next_state : BOOL;
-	state : STATES;
-	enable : BOOL;
-END_VAR

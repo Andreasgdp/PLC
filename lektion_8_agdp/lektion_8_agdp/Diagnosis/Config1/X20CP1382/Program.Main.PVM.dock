@@ -1,6 +1,0 @@
-WATCH Ver=2.00 PLCName=PLC1 CPUName=CPU TaskName=Program 
-Position X=0 Y=0 Width=0 Height=0 TabWidth Name=249 Type=0 Scope=0 Force=0 Index=2 ASCIIString=0
-                                    name                                     type force                                                            value level type len format place expand specs
-                               old_input                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         
-                                   input                                     BOOL    0 "                                                           FALSE"    0    1    1    2    1    0         
-                            falling_edge                                     BOOL    0 "                                                            TRUE"    0    1    1    2    1    0         

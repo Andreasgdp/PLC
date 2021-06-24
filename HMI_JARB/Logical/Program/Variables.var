@@ -1,6 +1,0 @@
-VAR
-	c : INT;
-	d : INT;
-	FUNKBLOK2 : FUNKBLOK;
-	out : INT;
-END_VAR

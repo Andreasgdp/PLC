@@ -1,7 +1,0 @@
-VAR
-	castate : TRAFFICLIGHT;
-	yellow : BOOL;
-	green : BOOL;
-	red : BOOL;
-	timer : TON;
-END_VAR

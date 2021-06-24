@@ -1,7 +1,0 @@
-VAR
-	output : BOOL;
-	input : BOOL;
-END_VAR
-VAR RETAIN
-	r_trigger : RF_EDGETRIG;
-END_VAR

@@ -1,6 +1,0 @@
-VAR
-	tmp : BOOL;
-	i : USINT;
-	shift : BOOL;
-	lights : ARRAY[0..15] OF BOOL;
-END_VAR
